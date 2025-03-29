@@ -1,0 +1,8 @@
+sqlalchemy
+psycopg2
+transformers
+torch
+flask
+flask-login
+flask-sqlalchemy
+accelerate
